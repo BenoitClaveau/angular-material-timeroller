@@ -1,0 +1,25 @@
+{
+  "name": "angular-material-timeroller",
+  "homepage": "https://github.com/beny78/angular-material-timeroller",
+  "authors": [
+    "Benoît Claveau <beny78@gmail.com>"
+  ],
+  "description": "Time roller for angular material",
+  "main": "timeroller.js",
+  "keywords": [
+    "datetime",
+    "datepicker",
+    "datetimepicker",
+    "timeroller",
+    "datetimeroller",
+    "d3",
+    "angular-material",
+    "angular",
+    "material"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular-material": "#master",
+    "d3": "latest"
+  }
+}
